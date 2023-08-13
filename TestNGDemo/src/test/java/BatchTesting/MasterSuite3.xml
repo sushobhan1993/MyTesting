@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Master Suite">
+
+<suite-files>
+<suite-file path="C:\Users\91801\eclipse-workspace\TestNGDemo\src\test\java\BatchTesting\Suite.xml"></suite-file>
+
+<suite-file path="C:\Users\91801\eclipse-workspace\TestNGDemo\src\test\java\BatchTesting\Suite2.xml"></suite-file>
+
+</suite-files>
+
+
+
+</suite>
